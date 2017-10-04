@@ -1,0 +1,3 @@
+http://www.sirlin.net/article-archive/ - архив статей по разработке. Есть карты (но не все)
+https://www.kickstarter.com/projects/sirlin/codex-2 - можно повыискивать общее количество карт, токенов и т.д.
+http://www.vassalengine.org/wiki/Module:Codex:_Card-Time_Strategy - карты в хорошем качестве, но без текста.
